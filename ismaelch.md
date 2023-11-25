@@ -30,7 +30,7 @@ I currently work in reverse logistics and RMA.
 1. Markdown
 1. HTML
 1. CSS
-1. Responsive Web design 📱
+1. Responsive Web design 📱 🖥️
 1. SASS
 1. JavaScript
 1. React
