@@ -83,4 +83,4 @@ alias pingy='ping -c 4 google.com'
 
 For **investing** time in reading my CV.
 
-**Ismael Chicaiza**
+[**Ismael Chicaiza**](chicaiza.ismael@gmail.com)
