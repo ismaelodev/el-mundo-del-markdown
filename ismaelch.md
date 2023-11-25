@@ -82,3 +82,5 @@ alias pingy='ping -c 4 google.com'
 ## Thanks! 🙏🏽
 
 For **investing** time in reading my CV.
+
+**Ismael Chicaiza**
