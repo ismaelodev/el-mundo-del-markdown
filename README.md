@@ -27,7 +27,7 @@ I currently work in reverse logistics and RMA.
 
 **Front-End languages and tecnologies**
 
-1. Markdown
+1. Markdown ﹟
 1. HTML
 1. CSS
 1. Responsive Web design 📱 🖥️
